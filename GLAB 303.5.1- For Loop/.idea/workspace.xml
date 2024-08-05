@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5812b659-8d38-4364-b2c2-08c26faed449" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../303.2.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../303.3.1/GLAB- Java String methods/src/lengthDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../303.3.2A/G-String and Console/src/ReadingStringFromConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loopdemoone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Basic Flexbox/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Basic Flexbox/navigation_bar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Basic Flexbox/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Bootstrap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CLASS/advance-javascript/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Candy Shop/About.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Candy Shop/style_about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DOM/PerScholas-RTT-111" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Data_collection/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Data_collection/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Data_collection/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dom_manipulation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../G-Lab 303.2.2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_Demo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PerScholas-RTT-111" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practical_Loops" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Resume" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SBA-308A-JSWebApp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SBA_316" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Space_hole/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Space_hole/images/Space.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Space_hole/images/hole.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Space_hole/images/mole.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Space_hole/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Space_hole/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TableForm/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../control-flow" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../create_two_functions/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flexbox_gallery.html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../flexbox_gallery.html/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../fylo-data-storage-component-master" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../htmlIntro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../links" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../profileCard/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../profileCard/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../project.group/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sweetTreat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testRepo" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "batoula1"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:batoula1/303.5.1-ForLoop.git",
+    "accountId": "5997ecfb-9a3f-4cd2-922d-60351654b7d7"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2jMfySA5xEY0wpITPvAohEfaFLg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5812b659-8d38-4364-b2c2-08c26faed449" name="Changes" comment="" />
+      <created>1721202122626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721202122626</updated>
+    </task>
+    <servers />
+  </component>
+</project>
